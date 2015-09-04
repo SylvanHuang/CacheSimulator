@@ -1,0 +1,1 @@
+This project implements a cache simulator that can be used to study and compare the effectiveness of various cache configurations. My simulator will read a memory access trace from a given file, and simulate what a cache based on certain parameters would do in response to these memory access patterns
